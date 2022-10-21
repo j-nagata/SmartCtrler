@@ -1,4 +1,4 @@
-# my_rooms
+# smartctrler
 
 A new Flutter project.
 

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.my_rooms">
+    package="com.example.smartctrler">
    <application
-        android:label="my_rooms"
+        android:label="smartctrler"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
